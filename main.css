@@ -1,0 +1,34 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #383737;
+}
+.navbar {
+    background:#252525;
+}
+.nav-link,
+.navbar-brand {
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+.nav-link {
+    margin-right: 1em !important;
+}
+.nav-link:hover {
+    color: rgb(73, 20, 158);
+}
+.navbar-collapse {
+    justify-content: flex-end;
+}
+.container-fluid h1 {
+    color:rgb(255, 255, 255)
+}
+.table-responsive tr {
+    color:rgb(255, 255, 255)
+}
+.table-responsive tbody {
+    color:rgb(255, 255, 255)
+}
+form {
+    color:rgb(255, 255, 255)
+}
